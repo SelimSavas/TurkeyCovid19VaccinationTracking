@@ -15,3 +15,7 @@ Araştırma sürecinde veri paletimi 2 ana konuda çıkarım yapabilecek şekild
 Yaşlı olarak tanımladığımız kişiler 50 yaş ve üstüdür.
 
 Bu süreçte belirtilen kaynaklardan verileri Excel yardımı ile elde ettim. Elde edilen verileri Python ve Python kütüphaneleri (Pandas, NumPy ve Plotly) sayesinde kolayca düzenleyip görselleştirmiş oldum.
+
+## Research1 - 18.05.2021
+
+https://medium.com/@16savasselim/t%C3%BCrkiyenin-covid-19-a%C5%9F%C4%B1lamalar%C4%B1na-python-ile-farkl%C4%B1-bir-bak%C4%B1%C5%9F-99b01dabd2d5

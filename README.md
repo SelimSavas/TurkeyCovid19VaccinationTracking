@@ -3,7 +3,6 @@ Türkiye'nin Covid-19 Aşılamalarına Python ile Farklı Bir Bakış - Araşt�
 
 ---
 
-Araştırma sorusu: "Yaşlı başına düşen vaka sayısı yüksek olduğu halde diğer illerimize göre aşılama oranı düşük ilimiz var mı?" 
 Araştırmanın yapıldığı tarih: 18.05.2021
 Araştırmanın sorumlusu: Selim Savaş, https://www.linkedin.com/in/savasselim/
 

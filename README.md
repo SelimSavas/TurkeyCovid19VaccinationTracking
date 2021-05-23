@@ -10,7 +10,7 @@ Araştırmanın sorumlusu: Selim Savaş, https://www.linkedin.com/in/savasselim/
 ---
 
 Türkiye'de COVID-19 aşılaması, Sağlık Bakanlığı tarafından CoronoVac aşısına acil kullanım onayı verilmesinin ardından 14 Ocak 2021'de başladı. Sürecin devamında Türkiye, Biontech aşılarını da envanterine ekleyerek iki çeşit aşı ile vatandaşlarına aşılama imkanı sundu.
-https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/pfizer-biontech-say-vaccine-protects-for-6-months/21953291. Araştırıma Hakkında
+
 Süreç devam ederken, Sağlık Bakanlığının yayınladığı verileri analiz ederek, daha performanslı bir aşılama çalışması sürdürülebilmesi için "Yaşlı başına düşen vaka sayısı yüksek olduğu halde diğer illerimize göre aşılama oranı düşük ilimiz var mı?" sorusuna cevap aradım.
 Araştırma sürecinde veri paletimi 2 ana konuda çıkarım yapabilecek şekilde düzenledim. Bu ana konular; Aşılama Oranı ve Yaşlı Başına Düşen Vaka Sayısı. Bu iki ana konu ile birlikte aşılama oranı artmasının gerektiği şehirleri tespit ediyor olacağım.
 Yaşlı olarak tanımladığımız kişiler 50 yaş ve üstüdür.

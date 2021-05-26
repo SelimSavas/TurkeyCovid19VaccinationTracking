@@ -5,6 +5,7 @@ Türkiye'nin Covid-19 Aşılamalarına Python ile Farklı Bir Bakış - Araşt�
 ---
 
 Araştırmaların yapılmaya başlandığı tarih: 18.05.2021
+
 Araştırmaların sorumlusu: Selim Savaş, https://www.linkedin.com/in/savasselim/
 
 ---

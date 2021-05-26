@@ -1,10 +1,11 @@
 # Turkey Covid-19 Vaccination Tracking
+
 Türkiye'nin Covid-19 Aşılamalarına Python ile Farklı Bir Bakış - Araştırma sorumuz: "Yaşlı başına düşen vaka sayısı yüksek olduğu halde diğer illerimize göre aşılama oranı düşük ilimiz var mı?"
 
 ---
 
-Araştırmanın yapıldığı tarih: 18.05.2021
-Araştırmanın sorumlusu: Selim Savaş, https://www.linkedin.com/in/savasselim/
+Araştırmaların yapılmaya başlandığı tarih: 18.05.2021
+Araştırmaların sorumlusu: Selim Savaş, https://www.linkedin.com/in/savasselim/
 
 ---
 
@@ -19,3 +20,5 @@ Bu süreçte belirtilen kaynaklardan verileri Excel yardımı ile elde ettim. El
 ## Research1 - 18.05.2021
 
 https://medium.com/@16savasselim/t%C3%BCrkiyenin-covid-19-a%C5%9F%C4%B1lamalar%C4%B1na-python-ile-farkl%C4%B1-bir-bak%C4%B1%C5%9F-99b01dabd2d5
+
+## Research1 - 23.05.2021

@@ -22,4 +22,6 @@ Bu süreçte belirtilen kaynaklardan verileri Excel yardımı ile elde ettim. El
 
 https://medium.com/@16savasselim/t%C3%BCrkiyenin-covid-19-a%C5%9F%C4%B1lamalar%C4%B1na-python-ile-farkl%C4%B1-bir-bak%C4%B1%C5%9F-99b01dabd2d5
 
-## Research1 - 23.05.2021
+## Research2 - 23.05.2021
+
+## Research3 - 02.06.2021
